@@ -17,3 +17,5 @@ Password : dhanu123
 05.Enter the following in URL bar.
 
 https://github.com/dhanusha96/CSRF-Protection-by-Synchronizer-Token-Pattern.git
+
+http://github.com/dhanusha96/CSRF-Protection-by-Synchronizer-Token-Pattern.git
